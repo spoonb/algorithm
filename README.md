@@ -57,7 +57,7 @@
 - [x] LeetCode134 https://leetcode.cn/problems/gas-station/
 - [x] LeetCode167 https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/
 - [x] LeetCode209 https://leetcode.cn/problems/minimum-size-subarray-sum/
-- [ ] LeetCode264 https://leetcode.cn/problems/ugly-number-ii/
+- [x] LeetCode264 https://leetcode.cn/problems/ugly-number-ii/
 - [ ] LeetCode413 https://leetcode.cn/problems/arithmetic-slices/
 - [ ] LeetCode424 https://leetcode.cn/problems/longest-repeating-character-replacement/
 - [ ] LeetCode443 https://leetcode.cn/problems/string-compression/
