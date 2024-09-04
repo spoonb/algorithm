@@ -6,13 +6,12 @@ public class P1343_NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThresho
 class Solution {
     public int numOfSubarrays(int[] arr, int k, int threshold) {
         int cnt = 0, sum = 0;
-        for (int i = 0; i < k; i ++)
+        for (int i = 0; i < arr.length; i ++) {
             sum += arr[i];
-        if (sum / k >= threshold) cnt ++;
-        for (int i = k; i < arr.length; i ++) {
-            sum += arr[i] - arr[i - k];
+            if (i < k - 1) continue;
             if (sum / k >= threshold)
                 cnt ++;
+            sum -= arr[i - k + 1];
         }
         return cnt;
     }
