@@ -24,7 +24,7 @@
 - [x] [1343\. 大小为 K 且平均值大于等于阈值的子数组数目](https://leetcode.cn/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)  1317
 - [x] [2090\. 半径为 k 的子数组平均值](https://leetcode.cn/problems/k-radius-subarray-averages/)  1358
 - [x] [2379\. 得到 K 个黑块的最少涂色次数](https://leetcode.cn/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)  1360
-- [ ] [1652\. 拆炸弹](https://leetcode.cn/problems/defuse-the-bomb/)  1417
+- [x] [1652\. 拆炸弹](https://leetcode.cn/problems/defuse-the-bomb/)  1417
 - [ ] [1052\. 爱生气的书店老板](https://leetcode.cn/problems/grumpy-bookstore-owner/)  1418
 - [ ] [2841\. 几乎唯一子数组的最大和](https://leetcode.cn/problems/maximum-sum-of-almost-unique-subarray/)  1546
 - [ ] [2461\. 长度为 K 子数组中的最大和](https://leetcode.cn/problems/maximum-sum-of-distinct-subarrays-with-length-k/)  1553
