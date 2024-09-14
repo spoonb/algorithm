@@ -26,7 +26,7 @@
 - [x] [2379\. 得到 K 个黑块的最少涂色次数](https://leetcode.cn/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)  1360
 - [x] [1652\. 拆炸弹](https://leetcode.cn/problems/defuse-the-bomb/)  1417
 - [x] [1052\. 爱生气的书店老板](https://leetcode.cn/problems/grumpy-bookstore-owner/)  1418
-- [ ] [2841\. 几乎唯一子数组的最大和](https://leetcode.cn/problems/maximum-sum-of-almost-unique-subarray/)  1546
+- [x] [2841\. 几乎唯一子数组的最大和](https://leetcode.cn/problems/maximum-sum-of-almost-unique-subarray/)  1546
 - [ ] [2461\. 长度为 K 子数组中的最大和](https://leetcode.cn/problems/maximum-sum-of-distinct-subarrays-with-length-k/)  1553
 - [ ] [1423\. 可获得的最大点数](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/)  1574
 - [ ] [1297\. 子串的最大出现次数](https://leetcode.cn/problems/maximum-number-of-occurrences-of-a-substring/)  1748
