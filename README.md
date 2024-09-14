@@ -30,7 +30,7 @@
 - [x] [2461\. 长度为 K 子数组中的最大和](https://leetcode.cn/problems/maximum-sum-of-distinct-subarrays-with-length-k/)  1553
 - [x] [1423\. 可获得的最大点数](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/)  1574
 - [x] [1297\. 子串的最大出现次数](https://leetcode.cn/problems/maximum-number-of-occurrences-of-a-substring/)  1748
-- [ ] [2653\. 滑动子数组的美丽值](https://leetcode.cn/problems/sliding-subarray-beauty/)  1786
+- [x] [2653\. 滑动子数组的美丽值](https://leetcode.cn/problems/sliding-subarray-beauty/)  1786
 - [ ] [1176\. 健身计划评估](https://leetcode.cn/problems/diet-plan-performance/)  （会员题）
 - [ ] [1100\. 长度为 K 的无重复字符子串](https://leetcode.cn/problems/find-k-length-substrings-with-no-repeated-characters/)  （会员题）
 - [ ] [1852\. 每个子数组的数字种类数](https://leetcode.cn/problems/distinct-numbers-in-each-subarray/)  （会员题）
