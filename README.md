@@ -28,7 +28,7 @@
 - [x] [1052\. 爱生气的书店老板](https://leetcode.cn/problems/grumpy-bookstore-owner/)  1418
 - [x] [2841\. 几乎唯一子数组的最大和](https://leetcode.cn/problems/maximum-sum-of-almost-unique-subarray/)  1546
 - [x] [2461\. 长度为 K 子数组中的最大和](https://leetcode.cn/problems/maximum-sum-of-distinct-subarrays-with-length-k/)  1553
-- [ ] [1423\. 可获得的最大点数](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/)  1574
+- [x] [1423\. 可获得的最大点数](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/)  1574
 - [ ] [1297\. 子串的最大出现次数](https://leetcode.cn/problems/maximum-number-of-occurrences-of-a-substring/)  1748
 - [ ] [2653\. 滑动子数组的美丽值](https://leetcode.cn/problems/sliding-subarray-beauty/)  1786
 - [ ] [1176\. 健身计划评估](https://leetcode.cn/problems/diet-plan-performance/)  （会员题）
