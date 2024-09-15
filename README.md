@@ -41,7 +41,7 @@
 
 ### §1.1.2 进阶（选做）
 
-- [ ] [2134\. 最少交换次数来组合所有的 1 II](https://leetcode.cn/problems/minimum-swaps-to-group-all-1s-together-ii/)  1748
+- [x] [2134\. 最少交换次数来组合所有的 1 II](https://leetcode.cn/problems/minimum-swaps-to-group-all-1s-together-ii/)  1748
 - [ ] [1888\. 使二进制字符串字符交替的最少反转次数](https://leetcode.cn/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/)  2006
 - [ ] [567\. 字符串的排列](https://leetcode.cn/problems/permutation-in-string/)
 - [ ] [438\. 找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/)
