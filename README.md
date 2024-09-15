@@ -55,7 +55,7 @@
 ### §1.1.3 其他（选做）
 
 - [x] [2269\. 找到一个数字的 K 美丽值](https://leetcode.cn/problems/find-the-k-beauty-of-a-number/)  1280
-- [ ] [1984\. 学生分数的最小差值](https://leetcode.cn/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)  1306
+- [x] [1984\. 学生分数的最小差值](https://leetcode.cn/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)  1306
 - [ ] [220\. 存在重复元素 III](https://leetcode.cn/problems/contains-duplicate-iii/)
 
 ## §1.2 不定长滑动窗口
