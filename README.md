@@ -72,7 +72,7 @@
 - [x] [904\. 水果成篮](https://leetcode.cn/problems/fruit-into-baskets/)  1516
 - [x] [1695\. 删除子数组的最大得分](https://leetcode.cn/problems/maximum-erasure-value/)  1529
 - [x] [2958\. 最多 K 个重复元素的最长子数组](https://leetcode.cn/problems/length-of-longest-subarray-with-at-most-k-frequency/)  1535
-- [ ] [2779\. 数组的最大美丽值](https://leetcode.cn/problems/maximum-beauty-of-an-array-after-applying-operation/)  1638
+- [x] [2779\. 数组的最大美丽值](https://leetcode.cn/problems/maximum-beauty-of-an-array-after-applying-operation/)  1638
 - [ ] [2024\. 考试的最大困扰度](https://leetcode.cn/problems/maximize-the-confusion-of-an-exam/)  1643
 - [ ] [1004\. 最大连续 1 的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii/)  1656
 - [ ] [1658\. 将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/)  1817
