@@ -68,7 +68,7 @@
 - [x] [3090\. 每个字符最多出现两次的最长子字符串](https://leetcode.cn/problems/maximum-length-substring-with-two-occurrences/)  1329
 - [x] [1493\. 删掉一个元素以后全为 1 的最长子数组](https://leetcode.cn/problems/longest-subarray-of-1s-after-deleting-one-element/)  1423
 - [x] [1208\. 尽可能使字符串相等](https://leetcode.cn/problems/get-equal-substrings-within-budget/)  1497
-- [ ] [2730\. 找到最长的半重复子字符串](https://leetcode.cn/problems/find-the-longest-semi-repetitive-substring/)  1502
+- [x] [2730\. 找到最长的半重复子字符串](https://leetcode.cn/problems/find-the-longest-semi-repetitive-substring/)  1502
 - [ ] [904\. 水果成篮](https://leetcode.cn/problems/fruit-into-baskets/)  1516
 - [ ] [1695\. 删除子数组的最大得分](https://leetcode.cn/problems/maximum-erasure-value/)  1529
 - [ ] [2958\. 最多 K 个重复元素的最长子数组](https://leetcode.cn/problems/length-of-longest-subarray-with-at-most-k-frequency/)  1535
