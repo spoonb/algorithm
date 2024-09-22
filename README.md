@@ -96,7 +96,7 @@
 ### §1.2.2 求最短/最小
 
 - [x] [209\. 长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/)
-- [ ] [2904\. 最短且字典序最小的美丽子字符串](https://leetcode.cn/problems/shortest-and-lexicographically-smallest-beautiful-string/)  做到 $O(n^2)$
+- [x] [2904\. 最短且字典序最小的美丽子字符串](https://leetcode.cn/problems/shortest-and-lexicographically-smallest-beautiful-string/)  做到 $O(n^2)$
 - [ ] [1234\. 替换子串得到平衡字符串](https://leetcode.cn/problems/replace-the-substring-for-balanced-string/)  1878
 - [ ] [2875\. 无限数组的最短子数组](https://leetcode.cn/problems/minimum-size-subarray-in-infinite-array/)  1914
 - [ ] [1574\. 删除最短的子数组使剩余数组有序](https://leetcode.cn/problems/shortest-subarray-to-be-removed-to-make-array-sorted/)  1932
