@@ -13,15 +13,14 @@ class Solution {
 
     private int maxContinuousChar(String key, int k, char c) {
         int l = 0, r = 0;
-        int cnt = 0, res = 0;
+        int res = 0;
         while (r < key.length()) {
-            if (c != key.charAt(r)) {
-                while (cnt == k) {
-                    if (c != key.charAt(l ++)) {
-                        cnt --;
-                    }
-                }
-                cnt ++;
+            char rc = key.charAt(r);
+            if (rc != c) k --;
+            while (k < 0) {
+                char lc = key.charAt(l);
+                if (lc != c) k ++;
+                l ++;
             }
             res = Math.max(res, r - l + 1);
             r ++;
