@@ -77,7 +77,7 @@
 - [x] [1004\. 最大连续 1 的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii/)  1656
 - [x] [1658\. 将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/)  1817
 - [x] [1838\. 最高频元素的频数](https://leetcode.cn/problems/frequency-of-the-most-frequent-element/)  1876
-- [ ] [2516\. 每种字符至少取 K 个](https://leetcode.cn/problems/take-k-of-each-character-from-left-and-right/)  1948
+- [x] [2516\. 每种字符至少取 K 个](https://leetcode.cn/problems/take-k-of-each-character-from-left-and-right/)  1948
 - [ ] [2831\. 找出最长等值子数组](https://leetcode.cn/problems/find-the-longest-equal-subarray/)  1976
 - [ ] [2271\. 毯子覆盖的最多白色砖块数](https://leetcode.cn/problems/maximum-white-tiles-covered-by-a-carpet/)  2022
 - [ ] [2106\. 摘水果](https://leetcode.cn/problems/maximum-fruits-harvested-after-at-most-k-steps/)  2062
