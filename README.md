@@ -107,7 +107,7 @@
 ### §1.2.3 求子数组个数
 
 - [x] [713\. 乘积小于 K 的子数组](https://leetcode.cn/problems/subarray-product-less-than-k/)
-- [ ] [1358\. 包含所有三种字符的子字符串数目](https://leetcode.cn/problems/number-of-substrings-containing-all-three-characters/)  1646
+- [x] [1358\. 包含所有三种字符的子字符串数目](https://leetcode.cn/problems/number-of-substrings-containing-all-three-characters/)  1646
 - [ ] [2962\. 统计最大元素出现至少 K 次的子数组](https://leetcode.cn/problems/count-subarrays-where-max-element-appears-at-least-k-times/)  1701
 - [ ] [3258\. 统计满足 K 约束的子字符串数量 I](https://leetcode.cn/problems/count-substrings-that-satisfy-k-constraint-i/)  做到 $O(n)$
 - [ ] [2799\. 统计完全子数组的数目](https://leetcode.cn/problems/count-complete-subarrays-in-an-array/)  做到 $O(n)$
