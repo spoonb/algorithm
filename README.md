@@ -112,7 +112,7 @@
 - [x] [3258\. 统计满足 K 约束的子字符串数量 I](https://leetcode.cn/problems/count-substrings-that-satisfy-k-constraint-i/)  做到 $O(n)$
 - [x] [2799\. 统计完全子数组的数目](https://leetcode.cn/problems/count-complete-subarrays-in-an-array/)  做到 $O(n)$
 - [x] [2302\. 统计得分小于 K 的子数组数目](https://leetcode.cn/problems/count-subarrays-with-score-less-than-k/)  1808
-- [ ] [2537\. 统计好子数组的数目](https://leetcode.cn/problems/count-the-number-of-good-subarrays/)  1892
+- [x] [2537\. 统计好子数组的数目](https://leetcode.cn/problems/count-the-number-of-good-subarrays/)  1892
 - [ ] [2762\. 不间断子数组](https://leetcode.cn/problems/continuous-subarrays/)  1940
 - [ ] [3134\. 找出唯一性数组的中位数](https://leetcode.cn/problems/find-the-median-of-the-uniqueness-array/)  2451
 - [ ] [3261\. 统计满足 K 约束的子字符串数量 II](https://leetcode.cn/problems/count-substrings-that-satisfy-k-constraint-ii/)  2659
