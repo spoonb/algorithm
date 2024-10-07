@@ -121,7 +121,7 @@
 
 ### §1.2.4 其他（选做）
 
-- [ ] [1438\. 绝对差不超过限制的最长连续子数组](https://leetcode.cn/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)  1672
+- [x] [1438\. 绝对差不超过限制的最长连续子数组](https://leetcode.cn/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)  1672
 - [ ] [2401\. 最长优雅子数组](https://leetcode.cn/problems/longest-nice-subarray/)  1750
 - [ ] [1156\. 单字符重复子串的最大长度](https://leetcode.cn/problems/swap-for-longest-repeated-character-substring/)  1787 有简单做法
 - [ ] [424\. 替换后的最长重复字符](https://leetcode.cn/problems/longest-repeating-character-replacement/)
