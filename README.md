@@ -134,7 +134,7 @@
 两个指针 $left=0, right=n−1$，从数组的两端开始，向中间移动。上面的滑动窗口相当于**同向**双指针。
 
 - [x] [125\. 验证回文串](https://leetcode.cn/problems/valid-palindrome/)
-- [ ] [1750\. 删除字符串两端相同字符后的最短长度](https://leetcode.cn/problems/minimum-length-of-string-after-deleting-similar-ends/)  1502
+- [x] [1750\. 删除字符串两端相同字符后的最短长度](https://leetcode.cn/problems/minimum-length-of-string-after-deleting-similar-ends/)  1502
 - [ ] [2105\. 给植物浇水 II](https://leetcode.cn/problems/watering-plants-ii/)  1507
 - [ ] [977\. 有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/)  做到 $O(n)$
 - [ ] [658\. 找到 K 个最接近的元素](https://leetcode.cn/problems/find-k-closest-elements/)
