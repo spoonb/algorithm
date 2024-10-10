@@ -137,7 +137,7 @@
 - [x] [1750\. 删除字符串两端相同字符后的最短长度](https://leetcode.cn/problems/minimum-length-of-string-after-deleting-similar-ends/)  1502
 - [x] [2105\. 给植物浇水 II](https://leetcode.cn/problems/watering-plants-ii/)  1507
 - [x] [977\. 有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/)  做到 $O(n)$
-- [ ] [658\. 找到 K 个最接近的元素](https://leetcode.cn/problems/find-k-closest-elements/)
+- [x] [658\. 找到 K 个最接近的元素](https://leetcode.cn/problems/find-k-closest-elements/)
 - [ ] [1471\. 数组中的 K 个最强值](https://leetcode.cn/problems/the-k-strongest-values-in-an-array/)  用双指针解决
 - [ ] [167\. 两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/)
 - [ ] [2824\. 统计和小于目标的下标对数目](https://leetcode.cn/problems/count-pairs-whose-sum-is-less-than-target/)
