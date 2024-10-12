@@ -4,18 +4,18 @@ public class P167_TwoSumIiInputArrayIsSorted {
 
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
-    public int[] twoSum(int[] numbers, int target) {
-        int l = 0, r = numbers.length - 1;
+    public int[] twoSum(int[] nums, int target) {
+        int l = 0, r = nums.length - 1;
         while (l < r) {
-            int cur = numbers[l] + numbers[r];
-            if (cur < target)
+            if (nums[l] + nums[r] < target) {
                 l ++;
-            else if (cur > target)
+            } else if (nums[l] + nums[r] > target) {
                 r --;
-            else
+            } else {
                 return new int[] {l + 1, r + 1};
+            }
         }
-        return new int[] {-1, -1};
+        return new int[0];
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
