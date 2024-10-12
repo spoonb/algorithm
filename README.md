@@ -140,7 +140,7 @@
 - [x] [658\. 找到 K 个最接近的元素](https://leetcode.cn/problems/find-k-closest-elements/)
 - [x] [1471\. 数组中的 K 个最强值](https://leetcode.cn/problems/the-k-strongest-values-in-an-array/)  用双指针解决
 - [x] [167\. 两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/)
-- [ ] [2824\. 统计和小于目标的下标对数目](https://leetcode.cn/problems/count-pairs-whose-sum-is-less-than-target/)
+- [x] [2824\. 统计和小于目标的下标对数目](https://leetcode.cn/problems/count-pairs-whose-sum-is-less-than-target/)
 - [ ] [LCP 28. 采购方案](https://leetcode.cn/problems/4xy4Wx/)  同 2824 题
 - [ ] [15\. 三数之和](https://leetcode.cn/problems/3sum/)
 - [ ] [16\. 最接近的三数之和](https://leetcode.cn/problems/3sum-closest/)
