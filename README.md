@@ -145,7 +145,7 @@
 - [ ] [15\. 三数之和](https://leetcode.cn/problems/3sum/)
 - [ ] [16\. 最接近的三数之和](https://leetcode.cn/problems/3sum-closest/)
 - [ ] [18\. 四数之和](https://leetcode.cn/problems/4sum/)
-- [ ] [611\. 有效三角形的个数](https://leetcode.cn/problems/valid-triangle-number/)
+- [x] [611\. 有效三角形的个数](https://leetcode.cn/problems/valid-triangle-number/)
 - [ ] [1577\. 数的平方等于两数乘积的方法数](https://leetcode.cn/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/)  用双指针实现
 - [ ] [923\. 三数之和的多种可能](https://leetcode.cn/problems/3sum-with-multiplicity/)  1711
 - [ ] [948\. 令牌放置](https://leetcode.cn/problems/bag-of-tokens/)  1762
