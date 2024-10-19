@@ -163,7 +163,7 @@
 
 两个指针的移动方向相同（都向右，或者都向左）。
 
-- [ ] [1346\. 检查整数及其两倍数是否存在](https://leetcode.cn/problems/check-if-n-and-its-double-exist/)
+- [x] [1346\. 检查整数及其两倍数是否存在](https://leetcode.cn/problems/check-if-n-and-its-double-exist/)
 - [ ] [532\. 数组中的 k-diff 数对](https://leetcode.cn/problems/k-diff-pairs-in-an-array/)
 - [ ] [2122\. 还原原数组](https://leetcode.cn/problems/recover-the-original-array/)  2159
 
