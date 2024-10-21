@@ -175,7 +175,7 @@
 
 ### §1.3.4 移除子数组
 
-- [ ] [581\. 最短无序连续子数组](https://leetcode.cn/problems/shortest-unsorted-continuous-subarray/)
+- [x] [581\. 最短无序连续子数组](https://leetcode.cn/problems/shortest-unsorted-continuous-subarray/)
 - [ ] [2972\. 统计移除递增子数组的数目 II](https://leetcode.cn/problems/count-the-number-of-incremovable-subarrays-ii/)  2153
 - [ ] [2565\. 最少得分子序列](https://leetcode.cn/problems/subsequence-with-the-minimum-score/)  2432
 
