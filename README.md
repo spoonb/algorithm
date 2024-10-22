@@ -186,7 +186,7 @@
 - [ ] [80\. 删除有序数组中的重复项 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/)
 - [ ] [283\. 移动零](https://leetcode.cn/problems/move-zeroes/)
 - [x] [905\. 按奇偶排序数组](https://leetcode.cn/problems/sort-array-by-parity/)
-- [ ] [922\. 按奇偶排序数组 II](https://leetcode.cn/problems/sort-array-by-parity-ii/)
+- [x] [922\. 按奇偶排序数组 II](https://leetcode.cn/problems/sort-array-by-parity-ii/)
 - [ ] [2460\. 对数组执行操作](https://leetcode.cn/problems/apply-operations-to-an-array/)
 - [ ] [1089\. 复写零](https://leetcode.cn/problems/duplicate-zeros/)
 
