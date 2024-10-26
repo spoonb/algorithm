@@ -188,7 +188,7 @@
 - [x] [905\. 按奇偶排序数组](https://leetcode.cn/problems/sort-array-by-parity/)
 - [x] [922\. 按奇偶排序数组 II](https://leetcode.cn/problems/sort-array-by-parity-ii/)
 - [x] [2460\. 对数组执行操作](https://leetcode.cn/problems/apply-operations-to-an-array/)
-- [ ] [1089\. 复写零](https://leetcode.cn/problems/duplicate-zeros/)
+- [x] [1089\. 复写零](https://leetcode.cn/problems/duplicate-zeros/)
 
 ## §1.4 双序列双指针
 
