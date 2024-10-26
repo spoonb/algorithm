@@ -194,7 +194,7 @@
 
 ### §1.4.1 双指针
 
-- [ ] [2540\. 最小公共值](https://leetcode.cn/problems/minimum-common-value/)  做到 $O(n+m)$
+- [x] [2540\. 最小公共值](https://leetcode.cn/problems/minimum-common-value/)  做到 $O(n+m)$
 - [ ] [88\. 合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/)  做到 $O(n+m)$
 - [ ] [2570\. 合并两个二维数组 - 求和法](https://leetcode.cn/problems/merge-two-2d-arrays-by-summing-values/)  做到 $O(n+m)$
 - [ ] [LCP 18. 早餐组合](https://leetcode.cn/problems/2vYnGI/)
