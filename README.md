@@ -197,7 +197,7 @@
 - [x] [2540\. 最小公共值](https://leetcode.cn/problems/minimum-common-value/)  做到 $O(n+m)$
 - [x] [88\. 合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/)  做到 $O(n+m)$
 - [ ] [2570\. 合并两个二维数组 - 求和法](https://leetcode.cn/problems/merge-two-2d-arrays-by-summing-values/)  做到 $O(n+m)$
-- [ ] [LCP 18. 早餐组合](https://leetcode.cn/problems/2vYnGI/)
+- [x] [LCP 18. 早餐组合](https://leetcode.cn/problems/2vYnGI/)
 - [ ] [1385\. 两个数组间的距离值](https://leetcode.cn/problems/find-the-distance-value-between-two-arrays/)
 - [ ] [1855\. 下标对中的最大距离](https://leetcode.cn/problems/maximum-distance-between-a-pair-of-values/)  1515
 - [ ] [925\. 长按键入](https://leetcode.cn/problems/long-pressed-name/)  做到 $O(n+m)$
