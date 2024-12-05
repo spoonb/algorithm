@@ -200,7 +200,7 @@
 - [x] [LCP 18. 早餐组合](https://leetcode.cn/problems/2vYnGI/)
 - [x] [1385\. 两个数组间的距离值](https://leetcode.cn/problems/find-the-distance-value-between-two-arrays/)
 - [x] [1855\. 下标对中的最大距离](https://leetcode.cn/problems/maximum-distance-between-a-pair-of-values/)  1515
-- [ ] [925\. 长按键入](https://leetcode.cn/problems/long-pressed-name/)  做到 $O(n+m)$
+- [x] [925\. 长按键入](https://leetcode.cn/problems/long-pressed-name/)  做到 $O(n+m)$
 - [ ] [809\. 情感丰富的文字](https://leetcode.cn/problems/expressive-words/)  1605
 - [ ] [2337\. 移动片段得到字符串](https://leetcode.cn/problems/move-pieces-to-obtain-a-string/)  1693
 - [ ] [777\. 在 LR 字符串中交换相邻字符](https://leetcode.cn/problems/swap-adjacent-in-lr-string/)  同 2337 题
