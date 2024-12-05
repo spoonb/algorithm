@@ -203,7 +203,7 @@
 - [x] [925\. 长按键入](https://leetcode.cn/problems/long-pressed-name/)  做到 $O(n+m)$
 - [ ] [809\. 情感丰富的文字](https://leetcode.cn/problems/expressive-words/)  1605
 - [x] [2337\. 移动片段得到字符串](https://leetcode.cn/problems/move-pieces-to-obtain-a-string/)  1693
-- [ ] [777\. 在 LR 字符串中交换相邻字符](https://leetcode.cn/problems/swap-adjacent-in-lr-string/)  同 2337 题
+- [x] [777\. 在 LR 字符串中交换相邻字符](https://leetcode.cn/problems/swap-adjacent-in-lr-string/)  同 2337 题
 - [ ] [844\. 比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/)  做到 $O(1)$ 额外空间
 - [ ] [986\. 区间列表的交集](https://leetcode.cn/problems/interval-list-intersections/)  做到 $O(n+m)$
 - [ ] [2070\. 每一个查询的最大美丽值](https://leetcode.cn/problems/most-beautiful-item-for-each-query/)  1724
