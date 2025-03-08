@@ -240,7 +240,7 @@
 
 $≤$ 和 $<$ 可以分别跑两次滑动窗口解决。也可以合并到同一个滑动窗口中，维护同一个右端点和两个不同的左端点，即为**三指针**。
 
-- [ ] [930\. 和相同的二元子数组](https://leetcode.cn/problems/binary-subarrays-with-sum/)  1592
+- [x] [930\. 和相同的二元子数组](https://leetcode.cn/problems/binary-subarrays-with-sum/)  1592
 - [ ] [1248\. 统计「优美子数组」](https://leetcode.cn/problems/count-number-of-nice-subarrays/)  1624
 - [ ] [1712\. 将数组分成三个子数组的方案数](https://leetcode.cn/problems/ways-to-split-array-into-three-subarrays/)  2079
 - [ ] [992\. K 个不同整数的子数组](https://leetcode.cn/problems/subarrays-with-k-different-integers/)  2210
