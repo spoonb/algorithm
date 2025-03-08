@@ -206,7 +206,7 @@
 - [x] [777\. 在 LR 字符串中交换相邻字符](https://leetcode.cn/problems/swap-adjacent-in-lr-string/)  同 2337 题
 - [x] [844\. 比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/)  做到 $O(1)$ 额外空间
 - [x] [986\. 区间列表的交集](https://leetcode.cn/problems/interval-list-intersections/)  做到 $O(n+m)$
-- [ ] [2070\. 每一个查询的最大美丽值](https://leetcode.cn/problems/most-beautiful-item-for-each-query/)  1724
+- [x] [2070\. 每一个查询的最大美丽值](https://leetcode.cn/problems/most-beautiful-item-for-each-query/)  1724
 - [ ] [面试题 16.06. 最小差](https://leetcode.cn/problems/smallest-difference-lcci/)
 - [ ] [1537\. 最大得分](https://leetcode.cn/problems/get-the-maximum-score/)  1961
 - [ ] [244\. 最短单词距离 II](https://leetcode.cn/problems/shortest-word-distance-ii/)  （会员题）
