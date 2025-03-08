@@ -218,7 +218,7 @@
 ### §1.4.2 判断子序列
 
 - [x] [392\. 判断子序列](https://leetcode.cn/problems/is-subsequence/)
-- [ ] [524\. 通过删除字母匹配到字典里最长单词](https://leetcode.cn/problems/longest-word-in-dictionary-through-deleting/)
+- [x] [524\. 通过删除字母匹配到字典里最长单词](https://leetcode.cn/problems/longest-word-in-dictionary-through-deleting/)
 - [ ] [2486\. 追加字符以获得子序列](https://leetcode.cn/problems/append-characters-to-string-to-make-subsequence/)  1363
 - [ ] [2825\. 循环增长使字符串子序列等于另一个字符串](https://leetcode.cn/problems/make-string-a-subsequence-using-cyclic-increments/)  1415
 - [ ] [1023\. 驼峰式匹配](https://leetcode.cn/problems/camelcase-matching/)  1537
