@@ -250,7 +250,7 @@ $≤$ 和 $<$ 可以分别跑两次滑动窗口解决。也可以合并到同一
 
 - [x] [2367\. 等差三元组的数目](https://leetcode.cn/problems/number-of-arithmetic-triplets/)  做到 $O(n)$
 - [x] [825\. 适龄的朋友](https://leetcode.cn/problems/friends-of-appropriate-ages/)  1697
-- [ ] [2563\. 统计公平数对的数目](https://leetcode.cn/problems/count-the-number-of-fair-pairs/)  1721
+- [x] [2563\. 统计公平数对的数目](https://leetcode.cn/problems/count-the-number-of-fair-pairs/)  1721
 - [ ] [795\. 区间子数组个数](https://leetcode.cn/problems/number-of-subarrays-with-bounded-maximum/)  1817
 - [ ] [2444\. 统计定界子数组的数目](https://leetcode.cn/problems/count-subarrays-with-fixed-bounds/)  2093
 - [ ] [1213\. 三个有序数组的交集](https://leetcode.cn/problems/intersection-of-three-sorted-arrays/)  （会员题）
