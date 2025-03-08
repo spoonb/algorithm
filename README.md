@@ -207,7 +207,7 @@
 - [x] [844\. 比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/)  做到 $O(1)$ 额外空间
 - [x] [986\. 区间列表的交集](https://leetcode.cn/problems/interval-list-intersections/)  做到 $O(n+m)$
 - [x] [2070\. 每一个查询的最大美丽值](https://leetcode.cn/problems/most-beautiful-item-for-each-query/)  1724
-- [ ] [面试题 16.06. 最小差](https://leetcode.cn/problems/smallest-difference-lcci/)
+- [x] [面试题 16.06. 最小差](https://leetcode.cn/problems/smallest-difference-lcci/)
 - [ ] [1537\. 最大得分](https://leetcode.cn/problems/get-the-maximum-score/)  1961
 - [ ] [244\. 最短单词距离 II](https://leetcode.cn/problems/shortest-word-distance-ii/)  （会员题）
 - [ ] [2838\. 英雄可以获得的最大金币数](https://leetcode.cn/problems/maximum-coins-heroes-can-collect/)  （会员题）
