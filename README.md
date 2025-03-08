@@ -221,7 +221,7 @@
 - [x] [524\. 通过删除字母匹配到字典里最长单词](https://leetcode.cn/problems/longest-word-in-dictionary-through-deleting/)
 - [x] [2486\. 追加字符以获得子序列](https://leetcode.cn/problems/append-characters-to-string-to-make-subsequence/)  1363
 - [x] [2825\. 循环增长使字符串子序列等于另一个字符串](https://leetcode.cn/problems/make-string-a-subsequence-using-cyclic-increments/)  1415
-- [ ] [1023\. 驼峰式匹配](https://leetcode.cn/problems/camelcase-matching/)  1537
+- [x] [1023\. 驼峰式匹配](https://leetcode.cn/problems/camelcase-matching/)  1537
 - [ ] [3132\. 找出与数组相加的整数 II](https://leetcode.cn/problems/find-the-integer-added-to-array-ii/)  1620
 - [ ] [522\. 最长特殊序列 II](https://leetcode.cn/problems/longest-uncommon-subsequence-ii/)  ~1700
 - [ ] [1898\. 可移除字符的最大数目](https://leetcode.cn/problems/maximum-number-of-removable-characters/)  1913
