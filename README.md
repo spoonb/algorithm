@@ -223,7 +223,7 @@
 - [x] [2825\. 循环增长使字符串子序列等于另一个字符串](https://leetcode.cn/problems/make-string-a-subsequence-using-cyclic-increments/)  1415
 - [x] [1023\. 驼峰式匹配](https://leetcode.cn/problems/camelcase-matching/)  1537
 - [x] [3132\. 找出与数组相加的整数 II](https://leetcode.cn/problems/find-the-integer-added-to-array-ii/)  1620
-- [ ] [522\. 最长特殊序列 II](https://leetcode.cn/problems/longest-uncommon-subsequence-ii/)  ~1700
+- [x] [522\. 最长特殊序列 II](https://leetcode.cn/problems/longest-uncommon-subsequence-ii/)  ~1700
 - [ ] [1898\. 可移除字符的最大数目](https://leetcode.cn/problems/maximum-number-of-removable-characters/)  1913
 - [ ] [1055\. 形成字符串的最短路径](https://leetcode.cn/problems/shortest-way-to-form-string/)  （会员题）
 
